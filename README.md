@@ -17,8 +17,13 @@
 ## Tools
 1. Hypervisor - Oracle VM VirtualBox
 2. Automation - Vagrant
-3. CLI - Git bash ,IDE
+3. Nginx :  act line load balance
+4. Tomcat : application server(java application is running)
+5. NFS server(shared storage)
+6 .Rabbitmq : massage broker
+7. Memcached :data base caching (cash the mysql queries exicuted my mysql server)
+5. Mysql
+6. CLI - Git bash ,IDE
 
-
-
-
+# Architecture Diagram :
+![unnamed](https://user-images.githubusercontent.com/99461999/179321539-41376474-14cf-418e-b785-f1b235ddf57f.jpg)
