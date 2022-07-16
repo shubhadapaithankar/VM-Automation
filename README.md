@@ -26,4 +26,5 @@
 6. CLI - Git bash ,IDE
 
 # Architecture Diagram :
-![unnamed](https://user-images.githubusercontent.com/99461999/179321539-41376474-14cf-418e-b785-f1b235ddf57f.jpg)
+![image](https://user-images.githubusercontent.com/99461999/179371653-04c5191d-8625-4501-8fcd-9518801dc60e.png)
+
