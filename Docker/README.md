@@ -1,6 +1,6 @@
-# emart-app
+# Emart-App
 
-This is the retail containarise application using 
+This is the retail containarise application using vagrant .
 
 ![image](https://user-images.githubusercontent.com/99461999/179873942-7e92cbbd-1ef8-4256-9505-08609d326db4.png)
 
