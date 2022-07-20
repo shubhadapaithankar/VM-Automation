@@ -17,19 +17,6 @@ The purpose is to use containers to enable rapid deployment, patching, and scali
 4. Database: MySql , MongoDb
 5. Vagrant --> VM automation
 
-
-## APPlication
-
-![IMG-0485](https://user-images.githubusercontent.com/99461999/179876799-421ab224-7248-43e9-94aa-30edbc475af1.jpg)
-
-
-![IMG-0484](https://user-images.githubusercontent.com/99461999/179876813-2904fd70-73b8-4526-bf68-ac95d6942347.jpg)
-
-
-![IMG-0483](https://user-images.githubusercontent.com/99461999/179876820-70f9de5b-6811-4ddf-ba4c-84afdca01df6.jpg)
-
-
-
 ## Sources
 
 Enspire from udemy https://www.udemy.com/ 
