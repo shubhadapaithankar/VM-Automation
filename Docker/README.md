@@ -3,6 +3,8 @@
 The application is designed using microservice architecture. This is the e-commerce containerized application using vagrant.
 The purpose is to use containers to enable rapid deployment, patching, and scaling of applications. Containerizing  applications make deployment faster and a lot easier.
 
+## Architecture Diagram 
+
 ![image](https://user-images.githubusercontent.com/99461999/179873942-7e92cbbd-1ef8-4256-9505-08609d326db4.png)
 
 ## Tools:
